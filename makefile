@@ -31,7 +31,7 @@ cleanbuild:
 	./a.out
 
 edit:
-	vim -p main.cpp journal.cpp main.h journal.h
+	vim -p *.cpp *.h
 
 git:
 	clear
